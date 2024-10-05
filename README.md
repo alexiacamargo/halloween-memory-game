@@ -28,8 +28,9 @@ O jogo inclui uma variedade de emojis temáticos de Halloween, como:
 
 ## Tecnologias Utilizadas:
 
-- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
-- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JavaScript_logo_2.svg/1200px-JavaScript_logo_2.svg.png)
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
 
 
